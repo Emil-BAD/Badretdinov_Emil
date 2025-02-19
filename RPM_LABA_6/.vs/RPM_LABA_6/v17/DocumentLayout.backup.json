@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\RPM_LABA_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A7E9CA-D3F9-43AD-823C-7A7B9BA60C5A}|RPM_LABA_6\\RPM_LABA_6.csproj|e:\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\rpm_laba_6\\rpm_laba_6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F4A7E9CA-D3F9-43AD-823C-7A7B9BA60C5A}|RPM_LABA_6\\RPM_LABA_6.csproj|solutionrelative:rpm_laba_6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A7E9CA-D3F9-43AD-823C-7A7B9BA60C5A}|RPM_LABA_6\\RPM_LABA_6.csproj|e:\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\rpm_laba_6\\rpm_laba_6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4A7E9CA-D3F9-43AD-823C-7A7B9BA60C5A}|RPM_LABA_6\\RPM_LABA_6.csproj|solutionrelative:rpm_laba_6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\RPM_LABA_6\\RPM_LABA_6\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "RPM_LABA_6\\MainWindow.xaml",
+              "ToolTip": "E:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\RPM_LABA_6\\RPM_LABA_6\\MainWindow.xaml",
+              "RelativeToolTip": "RPM_LABA_6\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-16T07:07:45.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\RPM_LABA_6\\RPM_LABA_6\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RPM_LABA_6\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\RPM_LABA_6\\RPM_LABA_6\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RPM_LABA_6\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:07:28.635Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 99,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
