@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\RPM_LABA_6\\",
+  "WorkspaceRootPath": "C:\\Study\\ISRPO\\LABA_1\\Task_4\\Badretdinov_Emil\\RPM_LABA_6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4A7E9CA-D3F9-43AD-823C-7A7B9BA60C5A}|RPM_LABA_6\\RPM_LABA_6.csproj|e:\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\rpm_laba_6\\rpm_laba_6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{F4A7E9CA-D3F9-43AD-823C-7A7B9BA60C5A}|RPM_LABA_6\\RPM_LABA_6.csproj|c:\\study\\isrpo\\laba_1\\task_4\\badretdinov_emil\\rpm_laba_6\\rpm_laba_6\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F4A7E9CA-D3F9-43AD-823C-7A7B9BA60C5A}|RPM_LABA_6\\RPM_LABA_6.csproj|solutionrelative:rpm_laba_6\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A7E9CA-D3F9-43AD-823C-7A7B9BA60C5A}|RPM_LABA_6\\RPM_LABA_6.csproj|c:\\study\\isrpo\\laba_1\\task_4\\badretdinov_emil\\rpm_laba_6\\rpm_laba_6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F4A7E9CA-D3F9-43AD-823C-7A7B9BA60C5A}|RPM_LABA_6\\RPM_LABA_6.csproj|solutionrelative:rpm_laba_6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4A7E9CA-D3F9-43AD-823C-7A7B9BA60C5A}|RPM_LABA_6\\RPM_LABA_6.csproj|e:\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\rpm_laba_6\\rpm_laba_6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4A7E9CA-D3F9-43AD-823C-7A7B9BA60C5A}|RPM_LABA_6\\RPM_LABA_6.csproj|c:\\study\\isrpo\\laba_1\\task_4\\badretdinov_emil\\rpm_laba_6\\rpm_laba_6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4A7E9CA-D3F9-43AD-823C-7A7B9BA60C5A}|RPM_LABA_6\\RPM_LABA_6.csproj|solutionrelative:rpm_laba_6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,12 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -39,10 +39,22 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\Study\\ISRPO\\LABA_1\\Task_4\\Badretdinov_Emil\\RPM_LABA_6\\RPM_LABA_6\\Window1.xaml",
+              "RelativeDocumentMoniker": "RPM_LABA_6\\Window1.xaml",
+              "ToolTip": "C:\\Study\\ISRPO\\LABA_1\\Task_4\\Badretdinov_Emil\\RPM_LABA_6\\RPM_LABA_6\\Window1.xaml",
+              "RelativeToolTip": "RPM_LABA_6\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T05:55:16.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "E:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\RPM_LABA_6\\RPM_LABA_6\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Study\\ISRPO\\LABA_1\\Task_4\\Badretdinov_Emil\\RPM_LABA_6\\RPM_LABA_6\\MainWindow.xaml",
               "RelativeDocumentMoniker": "RPM_LABA_6\\MainWindow.xaml",
-              "ToolTip": "E:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\RPM_LABA_6\\RPM_LABA_6\\MainWindow.xaml",
+              "ToolTip": "C:\\Study\\ISRPO\\LABA_1\\Task_4\\Badretdinov_Emil\\RPM_LABA_6\\RPM_LABA_6\\MainWindow.xaml",
               "RelativeToolTip": "RPM_LABA_6\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-09-16T07:07:45.674Z",
@@ -50,15 +62,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "E:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\RPM_LABA_6\\RPM_LABA_6\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Study\\ISRPO\\LABA_1\\Task_4\\Badretdinov_Emil\\RPM_LABA_6\\RPM_LABA_6\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "RPM_LABA_6\\MainWindow.xaml.cs",
-              "ToolTip": "E:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\RPM_LABA_6\\RPM_LABA_6\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Study\\ISRPO\\LABA_1\\Task_4\\Badretdinov_Emil\\RPM_LABA_6\\RPM_LABA_6\\MainWindow.xaml.cs",
               "RelativeToolTip": "RPM_LABA_6\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T07:07:28.635Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         },
